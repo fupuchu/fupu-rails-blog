@@ -3,10 +3,15 @@
 Made/Followed from https://mackenziechild.me/12-in-12/2/
 
 **Requires:**
+
 **Rails 4.2.1**
+
 **Ruby 2.3.1**
 
-If you are using Rails 5.0.1, please use RVM and change your version :)
+If you are using Rails 5.0.1, please use RVM to change your Ruby version and do
+~~~~
+gem install rails
+~~~~
 
 Basic functions include:
 
