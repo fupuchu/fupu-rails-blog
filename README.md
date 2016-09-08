@@ -18,11 +18,11 @@ Basic functions include:
 
 TO DO:
 
-* Redo Styling with Bootstrap
-* Setup [Single User System](https://github.com/plataformatec/devise/wiki/How-To:-Set-up-devise-as-a-single-user-system)
-* Include ckeditor
-* Include Calendar for scheduling posts
-* Include Image upload function
+* [ ]Redo Styling with Bootstrap
+* [ ]Setup [Single User System](https://github.com/plataformatec/devise/wiki/How-To:-Set-up-devise-as-a-single-user-system)
+* [x]Include ckeditor
+* [ ]Include Calendar for scheduling posts
+* [ ]Include Image upload function
 * ....More?
 
 Credits:
